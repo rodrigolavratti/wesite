@@ -1,0 +1,60 @@
+body{
+	background-color: #f7fafd;
+}
+main{
+	background-color: #FFFAFA;
+}
+.logo{
+	min-height: 100px;
+	max-width: 160px;
+}	
+h2{
+	color: #0cb1e8;
+	margin-right: 50px;
+}	
+.bg-primary{
+	background-color: rgba(100, 161, 227, 0.86) !important;
+}
+.no-bullets{
+	list-style: none;
+}
+.no-bullets li{
+	line-height: 50px;
+	font-size: 20px;
+}
+.div-contato{
+	padding-left: 70px;
+}
+.md-icon{
+	font-size: 30px;
+	color: #0cb1e8;
+}
+.cor-font-rodape{
+	color: white;
+}
+.btn-round{
+	border-radius: 100px;
+	max-height: 39px;
+	min-width: 50px;
+	position: fixed;
+	bottom: 5px;
+	right: 5px;
+	background-color: white;
+}
+.big-icon{
+	font-size: 21pt;
+	padding: 0px 0 10px 0;
+	box-sizing: initial;
+}
+.tamanho-slide{
+	width: 80%;
+	height: 400px;
+	margin: auto;
+}
+.tamanho-img-about{
+	/*margin: auto;*/
+	width: 70%;
+}
+.m-div-section{
+	padding-left: 110px;
+}
